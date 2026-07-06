@@ -2908,5 +2908,15 @@
       "section": "4-7",
       "section_title": "Figure 4-4: Selection of repair method for dormant cracks"
     }
+  },
+  {
+    "id": "em2002_fig4-3",
+    "text": "[EM 1110-2-2002 \u00a74-7 Figure 4-3: Selection of repair method for active cracks]\nFigure 4-3. Selection of repair method for active cracks (after Johnson 1965)\n\nThis decision flowchart outlines the selection of repair methods for active cracks based on their type and whether strengthening is required.\n\nHere are the complete logical paths:\n\n1.  If the crack is an **ACTIVE CRACK** and it is categorized as **PATTERN CRACKS**:\n    *   If **STRENGTHENING REQUIRED?** is **YES** -> then the repair method is **IMPROBABLE OCCURRENCE**.\n    *   If **STRENGTHENING REQUIRED?** is **NO** -> then the repair method is **UNBONDED OVERLAY**.\n\n2.  If the crack is an **ACTIVE CRACK** and it is categorized as **ISOLATED CRACKS**:\n    *   If **STRENGTHENING REQUIRED?** is **YES** -> then the repair methods are **1. STITCHING** and **2. ADDITIONAL REINFORCEMENT**.\n    *   If **STRENGTHENING REQUIRED?** is **NO** -> then the repair methods are **1. FLEXIBLE SEALING** and **2. DRILLING AND PLUGGING**.\n",
+    "meta": {
+      "doc": "EM 1110-2-2002",
+      "chapter": "4",
+      "section": "4-7",
+      "section_title": "Figure 4-3: Selection of repair method for active cracks"
+    }
   }
 ]

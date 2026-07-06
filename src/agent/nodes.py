@@ -5,7 +5,7 @@ from src.agent.llm import llm_fast, llm_main
 client = chromadb.PersistentClient(path="data/chroma")
 collection = client.get_collection("standards")
 
-TOP_K = 4
+TOP_K = 6
 
 
 def retrieve(state: AgentState) -> dict:

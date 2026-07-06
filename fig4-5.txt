@@ -1,0 +1,13 @@
+Figure 4-3. Selection of repair method for active cracks (after Johnson 1965)
+
+This decision flowchart outlines the selection of repair methods for active cracks based on their type and whether strengthening is required.
+
+Here are the complete logical paths:
+
+1.  If the crack is an **ACTIVE CRACK** and it is categorized as **PATTERN CRACKS**:
+    *   If **STRENGTHENING REQUIRED?** is **YES** -> then the repair method is **IMPROBABLE OCCURRENCE**.
+    *   If **STRENGTHENING REQUIRED?** is **NO** -> then the repair method is **UNBONDED OVERLAY**.
+
+2.  If the crack is an **ACTIVE CRACK** and it is categorized as **ISOLATED CRACKS**:
+    *   If **STRENGTHENING REQUIRED?** is **YES** -> then the repair methods are **1. STITCHING** and **2. ADDITIONAL REINFORCEMENT**.
+    *   If **STRENGTHENING REQUIRED?** is **NO** -> then the repair methods are **1. FLEXIBLE SEALING** and **2. DRILLING AND PLUGGING**.
