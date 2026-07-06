@@ -1,0 +1,61 @@
+Figure 4-4. Selection of repair method for dormant cracks (after Johnson 1965)
+
+This decision flowchart outlines the selection of repair methods for dormant cracks based on their type, whether strengthening is required, and the water condition.
+
+Here are the complete logical paths:
+
+**Starting Point: DORMANT CRACKS**
+
+**Path 1: If the dormant cracks are PATTERN CRACKS**
+*   **If STRENGTHENING IS REQUIRED (YES):**
+    *   Then the outcome is IMPROBABLE OCCURRENCE.
+*   **If STRENGTHENING IS NOT REQUIRED (NO):**
+    *   **If WATER CONDITION is NONE or MINOR:**
+        *   Then recommended repair methods are:
+            1.  ROUTING AND SEALING
+            2.  JUDICIOUS NEGLECT
+            3.  AUTOGENOUS HEALING
+            4.  OVERLAY
+            5.  POLYMER IMPREGNATION
+    *   **If WATER CONDITION is SEVERE:**
+        *   Then recommended repair methods are:
+            1.  OVERLAY
+            2.  POLYMER IMPREGNATION
+
+**Path 2: If the dormant cracks are ISOLATED CRACKS**
+*   **If STRENGTHENING IS REQUIRED (YES):**
+    *   **If WATER CONDITION is NONE:**
+        *   Then recommended repair methods are:
+            1.  EPOXY INJECTION
+            2.  STITCHING
+            3.  AUTOGENOUS HEALING
+            4.  ADDITIONAL REINFORCEMENT
+    *   **If WATER CONDITION is MINOR:**
+        *   Then recommended repair methods are:
+            1.  ADDITIONAL REINFORCEMENT + EPOXY INJECTION
+            2.  AUTOGENOUS HEALING
+    *   **If WATER CONDITION is SEVERE:**
+        *   Then the recommended repair method is:
+            1.  ADDITIONAL REINFORCEMENT + EPOXY INJECTION
+*   **If STRENGTHENING IS NOT REQUIRED (NO):**
+    *   **If WATER CONDITION is NONE:**
+        *   Then recommended repair methods are:
+            1.  EPOXY INJECTION
+            2.  ROUTING AND SEALING
+            3.  GROUTING
+            4.  AUTOGENOUS HEALING
+            5.  JUDICIOUS NEGLECT
+            6.  FLEXIBLE SEALING
+            7.  DRILLING AND PLUGGING
+            8.  DRY PACKING
+    *   **If WATER CONDITION is MINOR:**
+        *   Then recommended repair methods are:
+            1.  EPOXY INJECTION
+            2.  ROUTING AND SEALING
+            3.  GROUTING
+            4.  FLEXIBLE SEALING
+            5.  JUDICIOUS NEGLECT
+            6.  AUTOGENOUS HEALING
+            7.  DRILLING AND PLUGGING
+    *   **If WATER CONDITION is SEVERE:**
+        *   Then the recommended repair method is FLEXIBLE SEALING.

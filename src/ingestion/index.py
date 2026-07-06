@@ -4,6 +4,10 @@ import chromadb
 chunks = json.load(open("data/chunks.json"))
 
 client = chromadb.PersistentClient(path="data/chroma")
+try:
+    client.delete_collection("standards")
+except Exception:
+    pass
 collection = client.get_or_create_collection("standards")
 
 BATCH = 100
