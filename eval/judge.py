@@ -7,7 +7,7 @@ REFUSAL = "do not contain sufficient information"
 
 chunks = {c["id"]: c for c in json.load(open("data/chunks.json"))}
 dataset = {d["id"]: d for d in json.load(open("data/eval/qa_dataset.json"))}
-results = json.load(open("eval/results/run_full.json"))
+results = json.load(open(sys.argv[1] if len(sys.argv) > 1 else "eval/results/run_full.json"))
 
 FAITH_PROMPT = """You are checking whether an answer is faithful to its source excerpts.
 
@@ -71,4 +71,4 @@ all_ok = [x for x in rows if x["status"] == "ok"]
 print(f"{'ALL':14s} retrieval={rate('retrieval_hit', all_ok):7s} refusal_ok={rate('refusal_ok', all_ok):7s} "
       f"citations={rate('citation_ok', all_ok):7s} faithful={rate('faithful', all_ok)}")
 
-json.dump(rows, open("eval/results/judged.json", "w"), indent=2)
+json.dump(rows, open(sys.argv[1].replace(".json", "_judged.json") if len(sys.argv) > 1 else "eval/results/judged.json", "w"), indent=2)

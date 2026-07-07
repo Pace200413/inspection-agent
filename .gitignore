@@ -3,3 +3,8 @@
 __pycache__/
 data/chroma/
 models/
+page_*.png
+fig*.txt
+parse_preview.md
+test_nodes.py
+test_model.py

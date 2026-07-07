@@ -1,0 +1,237 @@
+[
+  {
+    "id": "t01",
+    "type": "text",
+    "status": "ok",
+    "retrieval_hit": true,
+    "refusal_ok": true,
+    "citation_ok": true,
+    "faithful": true,
+    "rewrites": 0,
+    "latency_s": 3.6
+  },
+  {
+    "id": "t02",
+    "type": "text",
+    "status": "ok",
+    "retrieval_hit": true,
+    "refusal_ok": true,
+    "citation_ok": true,
+    "faithful": true,
+    "rewrites": 0,
+    "latency_s": 3.6
+  },
+  {
+    "id": "t03",
+    "type": "text",
+    "status": "ok",
+    "retrieval_hit": true,
+    "refusal_ok": true,
+    "citation_ok": true,
+    "faithful": true,
+    "rewrites": 0,
+    "latency_s": 4.9
+  },
+  {
+    "id": "t04",
+    "type": "text",
+    "status": "ok",
+    "retrieval_hit": true,
+    "refusal_ok": true,
+    "citation_ok": true,
+    "faithful": true,
+    "rewrites": 0,
+    "latency_s": 22.3
+  },
+  {
+    "id": "t05",
+    "type": "text",
+    "status": "ok",
+    "retrieval_hit": true,
+    "refusal_ok": true,
+    "citation_ok": true,
+    "faithful": true,
+    "rewrites": 0,
+    "latency_s": 20.7
+  },
+  {
+    "id": "t06",
+    "type": "text",
+    "status": "ok",
+    "retrieval_hit": true,
+    "refusal_ok": true,
+    "citation_ok": true,
+    "faithful": true,
+    "rewrites": 0,
+    "latency_s": 20.1
+  },
+  {
+    "id": "t07",
+    "type": "text",
+    "status": "ok",
+    "retrieval_hit": true,
+    "refusal_ok": true,
+    "citation_ok": true,
+    "faithful": true,
+    "rewrites": 0,
+    "latency_s": 21.5
+  },
+  {
+    "id": "t08",
+    "type": "text",
+    "status": "ERROR"
+  },
+  {
+    "id": "t09",
+    "type": "text",
+    "status": "ERROR"
+  },
+  {
+    "id": "t10",
+    "type": "text",
+    "status": "ERROR"
+  },
+  {
+    "id": "t11",
+    "type": "text",
+    "status": "ERROR"
+  },
+  {
+    "id": "t12",
+    "type": "text",
+    "status": "ERROR"
+  },
+  {
+    "id": "t13",
+    "type": "text",
+    "status": "ERROR"
+  },
+  {
+    "id": "t14",
+    "type": "text",
+    "status": "ERROR"
+  },
+  {
+    "id": "t15",
+    "type": "text",
+    "status": "ERROR"
+  },
+  {
+    "id": "t16",
+    "type": "text",
+    "status": "ERROR"
+  },
+  {
+    "id": "t17",
+    "type": "text",
+    "status": "ERROR"
+  },
+  {
+    "id": "t18",
+    "type": "text",
+    "status": "ERROR"
+  },
+  {
+    "id": "t19",
+    "type": "text",
+    "status": "ERROR"
+  },
+  {
+    "id": "t20",
+    "type": "text",
+    "status": "ERROR"
+  },
+  {
+    "id": "i01",
+    "type": "image",
+    "status": "ERROR"
+  },
+  {
+    "id": "i02",
+    "type": "image",
+    "status": "ERROR"
+  },
+  {
+    "id": "i03",
+    "type": "image",
+    "status": "ok",
+    "retrieval_hit": false,
+    "refusal_ok": false,
+    "citation_ok": null,
+    "faithful": null,
+    "rewrites": 0,
+    "latency_s": 15.4
+  },
+  {
+    "id": "i04",
+    "type": "image",
+    "status": "ERROR"
+  },
+  {
+    "id": "i05",
+    "type": "image",
+    "status": "ERROR"
+  },
+  {
+    "id": "i06",
+    "type": "image",
+    "status": "ERROR"
+  },
+  {
+    "id": "i07",
+    "type": "image",
+    "status": "ERROR"
+  },
+  {
+    "id": "i08",
+    "type": "image",
+    "status": "ERROR"
+  },
+  {
+    "id": "i09",
+    "type": "image",
+    "status": "ERROR"
+  },
+  {
+    "id": "i10",
+    "type": "image",
+    "status": "ok",
+    "retrieval_hit": null,
+    "refusal_ok": false,
+    "citation_ok": true,
+    "faithful": null,
+    "rewrites": 0,
+    "latency_s": 45.7
+  },
+  {
+    "id": "u01",
+    "type": "unanswerable",
+    "status": "ERROR"
+  },
+  {
+    "id": "u02",
+    "type": "unanswerable",
+    "status": "ok",
+    "retrieval_hit": null,
+    "refusal_ok": true,
+    "citation_ok": null,
+    "faithful": null,
+    "rewrites": 0,
+    "latency_s": 24.1
+  },
+  {
+    "id": "u03",
+    "type": "unanswerable",
+    "status": "ERROR"
+  },
+  {
+    "id": "u04",
+    "type": "unanswerable",
+    "status": "ERROR"
+  },
+  {
+    "id": "u05",
+    "type": "unanswerable",
+    "status": "ERROR"
+  }
+]

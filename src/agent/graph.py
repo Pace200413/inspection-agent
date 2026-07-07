@@ -7,12 +7,7 @@ MIN_RELEVANT = 2  # fewer than this = weak retrieval -> try rewriting
 
 
 def decide_after_grading(state: AgentState) -> str:
-    """The agent's key decision: is the evidence good enough?"""
-    if len(state["relevant"]) >= MIN_RELEVANT:
-        return "generate"
-    if state["rewrite_count"] < MAX_REWRITES:
-        return "rewrite"
-    return "generate"  # out of retries - generate from whatever we have (or refuse)
+    return "generate"  # ABLATION: rewrite loop disabled
 
 
 def route_input(state: AgentState) -> str:
