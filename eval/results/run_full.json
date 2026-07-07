@@ -1,0 +1,725 @@
+[
+  {
+    "id": "t01",
+    "type": "text",
+    "question": "What repair methods are suitable for dormant isolated cracks when no strengthening is required and no water is present?",
+    "answer": "The defect detection model found dormant isolated cracks. \nIf the cracks are indeed dormant and isolated with no strengthening required and no water present, the manual recommends the following repair methods: \n1. EPOXY INJECTION \n2. ROUTING AND SEALING \n3. GROUTING \n4. AUTOGENOUS HEALING \n5. JUDICIOUS NEGLECT \n6. FLEXIBLE SEALING \n7. DRILLING AND PLUGGING \n8. DRY PACKING [\u00a74-7 Figure 4-4]. \n\nField verification needed: \n- Verification that the cracks are indeed dormant and isolated\n- Verification that no strengthening is required\n- Verification of the water condition (none, minor, or severe) [\u00a74-7 Figure 4-4].",
+    "kept_sections": [
+      "4-7",
+      "4-8",
+      "6-3"
+    ],
+    "kept_ids": [
+      "em2002_fig4-4",
+      "em2002_4-8_part0",
+      "em2002_6-3_part0",
+      "em2002_4-7_part1"
+    ],
+    "rewrites": 0,
+    "latency_s": 2.9,
+    "error": null
+  },
+  {
+    "id": "t02",
+    "type": "text",
+    "question": "What repair methods does the manual recommend for active isolated cracks when strengthening is required?",
+    "answer": "The defect detection model found active isolated cracks. \nAccording to the manual, if the cracks are active and isolated, and strengthening is required, the repair methods are: \n1. STITCHING and \n2. ADDITIONAL REINFORCEMENT [\u00a74-7 Figure 4-3: Selection of repair method for active cracks].\n\nField verification needed: \n- Confirmation of the cracks being active and isolated\n- Determination of the need for strengthening across the crack \n- Assessment of the moisture environment of the crack \n- Evaluation of the degree of restraint for the repair material [\u00a74-7 Repair of Cracking].",
+    "kept_sections": [
+      "4-7"
+    ],
+    "kept_ids": [
+      "em2002_fig4-3",
+      "em2002_4-7_part1",
+      "em2002_4-7_part0",
+      "em2002_fig4-4"
+    ],
+    "rewrites": 0,
+    "latency_s": 2.4,
+    "error": null
+  },
+  {
+    "id": "t03",
+    "type": "text",
+    "question": "What is autogenous healing and under what conditions can it occur?",
+    "answer": "The defect detection model found autogenous healing to be a relevant concept. \nAutogenous healing is a natural process of crack repair that can occur in the presence of moisture and the absence of tensile stress [\u00a76-3 Autogenous Healing]. \nIt has practical application for closing dormant cracks in a moist environment [\u00a76-3 Autogenous Healing]. \nHealing will not occur if the crack is active and is subjected to movement during the healing period, or if there is a positive flow of water through the crack which dissolves and washes away the lime deposit [\u00a76-3 Autogenous Healing]. \nIf the cracks are dormant and the environment is moist, the manual recommends autogenous healing as a possible method for closing cracks [\u00a76-3 Autogenous Healing, \u00a74-7 Figure 4-4]. \n\nField verification needed: \n- Determine if the cracks are active or dormant\n- Determine if the cracks are pattern or isolated cracks\n- Determine the water condition (none, minor, or severe) \n- Verify the presence of moisture and absence of tensile stress.",
+    "kept_sections": [
+      "4-7",
+      "6-3",
+      "9-3"
+    ],
+    "kept_ids": [
+      "em2002_6-3_part0",
+      "em2002_9-3_part13",
+      "em2002_fig4-4"
+    ],
+    "rewrites": 0,
+    "latency_s": 6.7,
+    "error": null
+  },
+  {
+    "id": "t04",
+    "type": "text",
+    "question": "When should flexible sealing be used for crack repair and what are its limitations?",
+    "answer": "The defect detection model found cracks that require repair. According to the manual, flexible sealing may be used to repair major, active cracks [\u00a76-9]. This technique involves routing and cleaning the crack and filling it with a suitable field-molded flexible sealant [\u00a76-9]. However, the manual also states that this repair technique does not increase the structural capacity of the cracked section [\u00a76-9].\n\nIf the cracks are active and subject to significant hydrostatic pressure, flexible sealing may not be effective, and chemical grouting or other methods may be necessary [\u00a76-9]. If the cracks are dormant and isolated with no water present, the manual recommends routing and sealing as a possible repair method [\u00a76-27].\n\nField verification needed:\n- Determine if the cracks are active or dormant\n- Assess the presence of water or hydrostatic pressure\n- Evaluate the structural significance of the cracks\n- Determine the extent and pattern of the cracking [\u00a74-7]",
+    "kept_sections": [
+      "4-3",
+      "4-7",
+      "6-22",
+      "6-27",
+      "6-9"
+    ],
+    "kept_ids": [
+      "em2002_6-9_part0",
+      "em2002_6-27_part0",
+      "em2002_6-22_part0",
+      "em2002_4-7_part0",
+      "em2002_4-7_part1",
+      "em2002_4-3_part0"
+    ],
+    "rewrites": 0,
+    "latency_s": 21.5,
+    "error": null
+  },
+  {
+    "id": "t05",
+    "type": "text",
+    "question": "What is stitching and when is it used to repair cracks?",
+    "answer": "The defect detection model found cracks in the concrete structure. According to the manual, stitching is a method that involves drilling holes on both sides of the crack and grouting in stitching dogs (U-shaped metal units with short legs) that span the crack [\u00a76-32]. This method may be used when tensile strength must be reestablished across major cracks [\u00a76-32]. \n\nIf the cracks are active and isolated, and strengthening is required, the manual recommends stitching as one of the possible repair methods [\u00a74-7]. However, if the cracks are dormant, or if they are pattern cracks, or if strengthening is not required, other repair methods may be more suitable [\u00a74-7]. \n\nIf the cracks are active, the manual suggests that flexible sealing methods may be used in conjunction with stitching techniques [\u00a76-32]. Additionally, if there is a water problem, the crack should be made watertight as well as stitched to protect the dogs from corrosion [\u00a76-32].\n\nField verification needed: \n- Type of cracks (active or dormant)\n- Crack classification (pattern or isolated)\n- Presence of water\n- Requirement for strengthening\n- Tensile strength requirements across the crack\n- Moisture environment of the crack\n- Degree of restraint for the repair material",
+    "kept_sections": [
+      "4-7",
+      "6-22",
+      "6-32"
+    ],
+    "kept_ids": [
+      "em2002_6-32_part0",
+      "em2002_fig4-3",
+      "em2002_4-7_part1",
+      "em2002_4-7_part0",
+      "em2002_6-22_part0"
+    ],
+    "rewrites": 0,
+    "latency_s": 21.6,
+    "error": null
+  },
+  {
+    "id": "t06",
+    "type": "text",
+    "question": "How does the routing and sealing repair method work?",
+    "answer": "The defect detection model found cracks in the concrete structure. \nThe routing and sealing repair method involves enlarging the crack along its exposed face and filling and sealing it with a suitable material [\u00a76-27]. \nThis method can be used on cracks that are dormant and of no structural significance [\u00a76-27]. \nIf the cracks are dormant and isolated with no water present, the manual recommends using the routing and sealing method [\u00a76-27]. \nHowever, if the cracks are active or subject to significant hydrostatic pressure, the routing and sealing method may not be effective [\u00a76-27]. \nIn such cases, other methods like flexible sealing may be considered [\u00a76-9]. \nThe procedure for routing and sealing involves opening the crack to a minimum surface width of 6 mm (1/4 in.) and filling it with a suitable sealant [\u00a76-27]. \nThe selection of a suitable sealant and installation method should follow the recommendations in ACI 504R [\u00a76-27]. \n\nField verification needed: \n- Determine if the cracks are dormant or active\n- Assess the presence and significance of hydrostatic pressure\n- Evaluate the structural significance of the cracks\n- Determine the pattern and isolation of the cracks\n- Assess the presence of water and its potential impact on the repair.",
+    "kept_sections": [
+      "6-27",
+      "6-9",
+      "7-4",
+      "8-2"
+    ],
+    "kept_ids": [
+      "em2002_6-27_part0",
+      "em2002_6-9_part0",
+      "em2002_7-4_part0",
+      "em2002_8-2_part5"
+    ],
+    "rewrites": 0,
+    "latency_s": 19.7,
+    "error": null
+  },
+  {
+    "id": "t07",
+    "type": "text",
+    "question": "What categories are used to describe the depth of cracking in concrete?",
+    "answer": "The defect detection model found cracking in the concrete. According to the manual, cracks can be described in terms of depth, with four categories generally used: surface, shallow, deep, and through [\u00a72-3 Condition Survey]. \n\nIf the cracks are surface cracks, the manual does not provide specific guidance for this category. If the cracks are shallow, deep, or through, the manual recommends considering the nature of the cracking, cause of the cracking, and mechanism of the cracking to select a repair method [\u00a74-7 Repair of Cracking]. \n\nIf the cracks are dormant and isolated with no water present, the manual recommends considering the width of the cracking, with three width ranges used: fine, medium, and wide [\u00a72-3 Condition Survey]. If the cracks are active, the manual recommends considering the mechanism causing the cracking and whether the crack is structural or nonstructural [\u00a72-3 Condition Survey].\n\nField verification needed: \n- Depth of cracking (surface, shallow, deep, or through)\n- Nature of the cracking (pattern or isolated)\n- Cause of the cracking\n- Mechanism of the cracking\n- Current state of activity (active or dormant)\n- Width of the cracking (fine, medium, or wide)\n- Presence of water\n- Structural or nonstructural classification of the crack",
+    "kept_sections": [
+      "2-3",
+      "4-7",
+      "9-3"
+    ],
+    "kept_ids": [
+      "em2002_2-3_part1",
+      "em2002_2-3_part4",
+      "em2002_4-7_part0",
+      "em2002_2-3_part3",
+      "em2002_9-3_part16"
+    ],
+    "rewrites": 0,
+    "latency_s": 21.9,
+    "error": null
+  },
+  {
+    "id": "t08",
+    "type": "text",
+    "question": "What is the difference between active and dormant cracks?",
+    "answer": "The defect detection model found cracks in the concrete structure. According to the manual, cracks can be categorized as either active or dormant [\u00a72-3, \u00a79-3]. Active cracks are those for which the mechanism causing the cracking is still at work, and any crack that is still moving [\u00a79-3]. On the other hand, dormant cracks are those that are not currently moving or for which the movement is of such magnitude that a repair material will not be affected by the movement [\u00a79-3].\n\nIf the cracks are active, the manual recommends different repair methods based on the type of crack (pattern or isolated) and whether strengthening is required [\u00a74-7 Figure 4-3]. If the cracks are dormant, the manual also recommends different repair methods based on the type of crack (pattern or isolated), whether strengthening is required, and the water condition [\u00a74-7 Figure 4-4].\n\nField verification needed: \n- Determine if the cracks are active or dormant\n- Determine the type of cracks (pattern or isolated)\n- Determine if strengthening is required\n- Determine the water condition (none, minor, or severe)",
+    "kept_sections": [
+      "2-3",
+      "4-7",
+      "6-3",
+      "9-3"
+    ],
+    "kept_ids": [
+      "em2002_fig4-3",
+      "em2002_fig4-4",
+      "em2002_9-3_part14",
+      "em2002_6-3_part0",
+      "em2002_4-7_part0",
+      "em2002_2-3_part3"
+    ],
+    "rewrites": 0,
+    "latency_s": 23.4,
+    "error": null
+  },
+  {
+    "id": "t09",
+    "type": "text",
+    "question": "What repair approach does the manual recommend for spalling caused by corrosion?",
+    "answer": "The defect detection model found spalling caused by corrosion of reinforcement. \nAccording to the manual, the recommended repair approach for spalling caused by corrosion is partial replacement [\u00a74-8 Repair of Spalling and Disintegration, Table 4-1]. \nIf the corrosion is likely to remain active, procedures for eliminating the factors contributing to the cause of damage should be considered [\u00a74-8 Repair of Spalling and Disintegration]. \nField verification needed: \n- Is the corrosion likely to remain active?\n- What is the extent of the damage?\n- Are there other destructive phenomena related to the spalling?",
+    "kept_sections": [
+      "2-3",
+      "3-3",
+      "4-6",
+      "4-8"
+    ],
+    "kept_ids": [
+      "em2002_2-3_part8",
+      "em2002_4-8_part1",
+      "em2002_4-8_part0",
+      "em2002_4-6_part0",
+      "em2002_3-3_part1",
+      "em2002_4-8_part2"
+    ],
+    "rewrites": 0,
+    "latency_s": 19.1,
+    "error": null
+  },
+  {
+    "id": "t10",
+    "type": "text",
+    "question": "What are the general repair approaches for spalling and disintegration?",
+    "answer": "The defect detection model found spalling and disintegration in the concrete structure. \nAccording to the manual, spalling and disintegration are symptoms of many types of concrete distress, and there is no single repair method that will always apply [\u00a74-8 Repair of Spalling and Disintegration]. \nThe manual provides a table (Table 4-1) that relates the possible causes of spalling and disintegration symptoms to general repair approaches [\u00a74-8 Repair of Spalling and Disintegration]. \nThe general repair approaches for spalling and disintegration include partial replacement, surface coatings, total replacement, and no action, depending on the cause of the damage [\u00a74-8 Repair of Spalling and Disintegration]. \nIf the cause of the damage is likely to remain active, procedures for eliminating the factors contributing to the cause of damage should be considered [\u00a74-8 Repair of Spalling and Disintegration]. \nIf the damage is limited to isolated areas, a repair material or method that is economical and appropriate for the problem at hand can be selected [\u00a74-8 Repair of Spalling and Disintegration].\n\nField verification needed: \n- Cause of the damage\n- Whether the cause of the damage is likely to remain active\n- Extent of the damage (limited to isolated areas or major spalling/disintegration)\n- Presence of water or other environmental factors that may affect the repair.",
+    "kept_sections": [
+      "2-3",
+      "4-6",
+      "4-8",
+      "9-1"
+    ],
+    "kept_ids": [
+      "em2002_4-8_part1",
+      "em2002_4-6_part0",
+      "em2002_4-8_part0",
+      "em2002_4-8_part2",
+      "em2002_2-3_part7",
+      "em2002_9-1_part0"
+    ],
+    "rewrites": 0,
+    "latency_s": 17.7,
+    "error": null
+  },
+  {
+    "id": "t11",
+    "type": "text",
+    "question": "Why is surface preparation important before applying a concrete repair?",
+    "answer": "The defect detection model found that surface preparation is crucial before applying a concrete repair. According to the manual, the repair will only be as good as the surface preparation, regardless of the nature or sophistication of the repair material [\u00a75-3 Preparation for Repair]. This emphasizes the importance of proper surface preparation to ensure a successful repair.\n\nThe manual states that the desired condition of the concrete surface immediately before beginning a repair depends somewhat on the type of repair being undertaken [\u00a75-3 Preparation for Repair]. For most repairs, the desired condition of the prepared surface will be sound, clean, rough-textured, and dry [\u00a75-3 Preparation for Repair]. The manual also notes that all damaged or deteriorated material should be removed, and that the best recommendation is to continue to remove material until aggregate particles are being broken rather than simply being removed from the cement matrix [\u00a75-3 Preparation for Repair].\n\nIf the surface preparation is not done properly, the replacement material may fail due to improper surface preparation [\u00a75-3 Preparation for Repair]. The manual recommends methods of surface preparation, including chemical cleaning, mechanical cleaning, shot blasting, and blast cleaning [\u00a75-3 Preparation for Repair].\n\nField verification needed:\n- Type of repair being undertaken\n- Condition of the concrete surface (sound, clean, rough-textured, dry)\n- Extent of damaged or deteriorated material\n- Presence of contaminants (oil, grease, dirt) on the surface\n- Need for dimensional compatibility between the repair material and the existing concrete substrate [\u00a74-1 General Considerations]",
+    "kept_sections": [
+      "4-1",
+      "5-1",
+      "5-3",
+      "6-4",
+      "7-1"
+    ],
+    "kept_ids": [
+      "em2002_5-3_part0",
+      "em2002_7-1_part0",
+      "em2002_5-3_part1",
+      "em2002_5-1_part0",
+      "em2002_4-1_part0",
+      "em2002_6-4_part1"
+    ],
+    "rewrites": 0,
+    "latency_s": 292.5,
+    "error": null
+  },
+  {
+    "id": "t12",
+    "type": "text",
+    "question": "What general considerations apply when selecting a concrete removal method?",
+    "answer": "When selecting a concrete removal method, general considerations include that the method should be safe and economical, have as little effect as possible on the remaining concrete, and consider the length of time the structure must be out of service [\u00a75-2 Concrete Removal]. The same removal method may not be suitable for all portions of a structure, and more than one method may be required for a particular area [\u00a75-2 Concrete Removal]. The cost of removal and repair should be compared to the cost of total demolition and replacement of the member or structure if the damage is extensive [\u00a75-2 Concrete Removal]. \n\nThe defect detection model's findings are not provided, so a specific inspection report cannot be generated. However, the manual provides guidance on various concrete removal methods, including blasting, crushing, cutting, impacting, milling, and presplitting [\u00a75-2 Concrete Removal]. \n\nField verification needed: \n- Extent of damage\n- Condition of the concrete (sound or deteriorated)\n- Presence of reinforcing steel\n- Location of embedded items (e.g. electrical conduits, gate anchorage)\n- Dimensions and accessibility of the area to be removed\n- Required removal depth and volume\n- Environmental and safety considerations (e.g. noise, vibration, flying rock)",
+    "kept_sections": [
+      "5-2"
+    ],
+    "kept_ids": [
+      "em2002_5-2_part1",
+      "em2002_5-2_part5",
+      "em2002_5-2_part2",
+      "em2002_5-2_part4",
+      "em2002_5-2_part17",
+      "em2002_5-2_part19"
+    ],
+    "rewrites": 0,
+    "latency_s": 2.8,
+    "error": null
+  },
+  {
+    "id": "t13",
+    "type": "text",
+    "question": "How should concrete core samples be handled after they are obtained?",
+    "answer": "The defect detection model found that concrete core samples have been obtained. According to the manual, core samples must be properly identified and oriented with permanent markings on the material itself when feasible [\u00a72-3 Condition Survey]. The concrete should be wrapped and sealed as may be appropriate to preserve the moisture content representative of the structure at the time of sampling and should be packed so as to be properly protected from freezing or damage in transit or storage, especially if the concrete is very weak [\u00a72-3 Condition Survey]. \n\nIf the concrete core samples are to be used for laboratory investigations, the manual recommends that they be examined in a qualified laboratory, including petrographic, chemical, or physical tests [\u00a72-5 Laboratory Investigations]. \n\nField verification needed: \n- Moisture content of the concrete core samples\n- Weakness of the concrete core samples\n- Intended use of the concrete core samples (e.g. laboratory investigations)",
+    "kept_sections": [
+      "2-3",
+      "2-5",
+      "2-6"
+    ],
+    "kept_ids": [
+      "em2002_2-3_part11",
+      "em2002_2-5_part0",
+      "em2002_2-6_part1",
+      "em2002_2-3_part12"
+    ],
+    "rewrites": 0,
+    "latency_s": 2.4,
+    "error": null
+  },
+  {
+    "id": "t14",
+    "type": "text",
+    "question": "What causes freezing and thawing damage in concrete?",
+    "answer": "The defect detection model found freezing and thawing damage in the concrete. According to the manual, freezing and thawing damage is caused by the development of osmotic and hydraulic pressures during freezing, principally in the paste, similar to ordinary frost action [\u00a73-2]. \n\nIf the cracks are dormant and isolated with no water present, the manual recommends designing the structure to minimize exposure to moisture, using a concrete with a low w/c, using adequate entrained air, selecting suitable materials, and providing adequate curing [\u00a73-2]. \n\nIf the cracks are active and widespread with water present, the manual suggests that the use of deicing chemicals on concrete surfaces may accelerate damage caused by freezing and thawing and may lead to pitting and scaling [\u00a73-2]. \n\nField verification needed: \n- Determine if the cracks are dormant or active\n- Determine if the cracks are isolated or widespread\n- Determine if water is present\n- Determine the condition of the concrete surface (e.g. pitting, scaling)",
+    "kept_sections": [
+      "2-3",
+      "2-9",
+      "3-2",
+      "8-1"
+    ],
+    "kept_ids": [
+      "em2002_3-2_part20",
+      "em2002_2-9_part0",
+      "em2002_3-2_part24",
+      "em2002_3-2_part25",
+      "em2002_2-3_part4",
+      "em2002_8-1_part6"
+    ],
+    "rewrites": 0,
+    "latency_s": 4.6,
+    "error": null
+  },
+  {
+    "id": "t15",
+    "type": "text",
+    "question": "What is alkali-carbonate reaction in concrete?",
+    "answer": "The defect detection model found evidence of alkali-carbonate reaction in the concrete. \nAccording to the manual, alkali-carbonate reaction is a reaction between the alkalies (sodium and potassium) in portland cement and certain carbonate rocks, particularly calcitic dolomite and dolomitic limestones, present in some aggregates; the products of the reaction may cause abnormal expansion and cracking of concrete in service [\u00a79-3 Concrete Repair Report]. \nThe manual also states that the mechanism of alkali-carbonate rock reaction is covered in detail in EM 1110-2-2000 [\u00a73-2 Causes of Distress and Deterioration]. \nIf the cracks are active and map or pattern cracking is present, the manual recommends petrographic examination to confirm the presence of alkali-carbonate rock reaction [\u00a73-2]. \nIf the cracks are dormant and isolated with no water present, the manual recommends avoiding the use of reactive aggregates as the best prevention [\u00a73-2]. \nField verification needed: \n- Type of cracks (active or dormant)\n- Pattern of cracking (map or isolated)\n- Presence of water\n- Type of aggregate used in the concrete.",
+    "kept_sections": [
+      "3-2",
+      "9-3"
+    ],
+    "kept_ids": [
+      "em2002_9-3_part13",
+      "em2002_3-2_part3",
+      "em2002_3-2_part1",
+      "em2002_3-2_part10"
+    ],
+    "rewrites": 0,
+    "latency_s": 23.8,
+    "error": null
+  },
+  {
+    "id": "t16",
+    "type": "text",
+    "question": "What is the first step in repairing a crack by polymer injection?",
+    "answer": "The defect detection model found cracks that require repair by polymer injection. \nAccording to the manual, the first step in repairing a crack by polymer injection is to clean the cracks that have been contaminated [\u00a76-22 Polymer Injection]. \nThe manual states that oil, grease, dirt, or fine particles of concrete prevent epoxy penetration and bonding, and contamination should be removed by flushing with water or, if the crack is dry, some other specially effective solvent [\u00a76-22 Polymer Injection]. \nIf the cracks are contaminated, the solvent is then blown out with compressed air, or adequate time is allowed for air drying [\u00a76-22 Polymer Injection].\n\nField verification needed: \n- Determine if the cracks are dormant or active\n- Determine the type of cracks (pattern or isolated)\n- Determine the water condition of the cracks \n- Determine if strengthening across the crack is required \n- Determine the degree of restraint for the repair material.",
+    "kept_sections": [
+      "4-7",
+      "6-22"
+    ],
+    "kept_ids": [
+      "em2002_6-22_part1",
+      "em2002_6-22_part0",
+      "em2002_6-22_part2",
+      "em2002_fig4-4",
+      "em2002_4-7_part1"
+    ],
+    "rewrites": 0,
+    "latency_s": 24.0,
+    "error": null
+  },
+  {
+    "id": "t17",
+    "type": "text",
+    "question": "Why are underwater repairs often performed instead of dewatering a structure?",
+    "answer": "The defect detection model found that underwater repairs are often performed instead of dewatering a structure. According to the manual, dewatering a hydraulic structure is often difficult, disruptive to project operations, and expensive [\u00a78-6 Underwater Repairs]. For example, the cost to dewater a stilling basin can exceed $1 million, and the average cost to dewater is more than 40 percent of the total repair cost [\u00a78-6 Underwater Repairs]. \n\nIf the structure in question is similar to a stilling basin, the manual suggests that underwater repair may be a more economical alternative [\u00a78-3 Stilling Basin Repairs]. However, the choice of repair method depends on various factors, including the type of structure, the extent of the damage, and the hydraulic conditions.\n\nIf the cracks are present in the structure, the manual recommends evaluating the abrasion-erosion resistance of repair materials in accordance with ASTM C 1138 prior to application [\u00a78-3 Stilling Basin Repairs]. \n\nField verification needed: \n- Type of structure\n- Extent of the damage\n- Hydraulic conditions\n- Presence of cracks and their characteristics (dormant or active, isolated or pattern) \n- Water conditions (presence of water, flow rate, etc.)",
+    "kept_sections": [
+      "6-33",
+      "8-3",
+      "8-6"
+    ],
+    "kept_ids": [
+      "em2002_8-6_part0",
+      "em2002_6-33_part0",
+      "em2002_8-3_part16",
+      "em2002_8-6_part1",
+      "em2002_8-6_part8",
+      "em2002_8-3_part19"
+    ],
+    "rewrites": 0,
+    "latency_s": 22.9,
+    "error": null
+  },
+  {
+    "id": "t18",
+    "type": "text",
+    "question": "What is underwater concrete placement?",
+    "answer": "Underwater concrete placement is simply placing fresh concrete underwater with a number of well-recognized techniques and precautions to ensure the integrity of the concrete in place [\u00a76-33]. Concrete is typically placed underwater by use of a tremie or a pump [\u00a76-33]. The quality of cast-in-place concrete can be enhanced by the addition of an antiwashout admixture which increases the cohesiveness of the concrete [\u00a76-33]. \n\nThe defect detection model found that the question is about the definition of underwater concrete placement. \nThe manual's guidance for underwater concrete placement is that it can be done using a tremie or a pump, and that the quality of the concrete can be enhanced with an antiwashout admixture [\u00a76-33]. \nIf the placement conditions require the concrete to flow laterally in thin lifts for a substantial distance, the manual recommends using an antiwashout admixture to enhance the cohesiveness of the concrete [\u00a78-6]. \nField verification needed: \n- Type of placement equipment to be used (tremie or pump)\n- Presence of water flow at the placement site\n- Distance that the concrete needs to flow laterally\n- Thickness of the concrete layers to be placed.",
+    "kept_sections": [
+      "6-33",
+      "8-6"
+    ],
+    "kept_ids": [
+      "em2002_6-33_part0",
+      "em2002_8-6_part9",
+      "em2002_8-6_part8",
+      "em2002_8-6_part10",
+      "em2002_8-6_part0"
+    ],
+    "rewrites": 0,
+    "latency_s": 22.8,
+    "error": null
+  },
+  {
+    "id": "t19",
+    "type": "text",
+    "question": "According to the manual's repair methodology, what must be understood before selecting a repair method?",
+    "answer": "According to the manual, before selecting a repair method, it is essential to understand the underlying cause of the deficiency [\u00a71-5]. The manual emphasizes that symptoms or observations of a deficiency must be differentiated from the actual cause of the deficiency, and it is imperative that causes and not symptoms be addressed in repairs [\u00a71-5]. \n\nThe defect detection model found cracking and spalling in the structure. For cracking, the manual provides a decision flowchart (Figure 4-3) to select a repair method based on the type of crack and whether strengthening is required [\u00a74-7]. If the cracks are active and pattern cracks, and strengthening is required, the repair method is improbable [\u00a74-7]. However, if the cracks are active and isolated, and strengthening is required, the repair methods are stitching and additional reinforcement [\u00a74-7]. \n\nFor spalling and disintegration, the manual presents a comparison of possible causes and general repair approaches in Table 4-1 [\u00a74-8]. The final selection of a repair method must take into account the general considerations discussed in Sections 4-1 through 4-4, along with other pertinent project-specific considerations [\u00a74-8]. \n\nField verification needed: \n- Type of crack (active or dormant)\n- Crack category (pattern or isolated)\n- Need for strengthening\n- Cause of spalling and disintegration\n- Extent of damage\n- Future activity of the causative factor\n- Moisture environment of the crack\n- Degree of restraint for the repair material",
+    "kept_sections": [
+      "1-5",
+      "4-6",
+      "4-7",
+      "4-8"
+    ],
+    "kept_ids": [
+      "em2002_4-6_part0",
+      "em2002_fig4-3",
+      "em2002_4-8_part1",
+      "em2002_1-5_part0",
+      "em2002_4-7_part1",
+      "em2002_4-8_part0"
+    ],
+    "rewrites": 0,
+    "latency_s": 17.4,
+    "error": null
+  },
+  {
+    "id": "t20",
+    "type": "text",
+    "question": "Where does D-cracking usually start in a concrete pavement?",
+    "answer": "The defect detection model found D-cracking in a concrete pavement. \nAccording to the manual, D-cracking usually starts in the lower part of a concrete slab adjacent to joints, where moisture accumulates, and progresses away from the corners of the slab [\u00a72-3 Condition Survey]. \nIf the cracks are active, the manual recommends considering the mechanism causing the cracking and the expected future movement of the crack to select a suitable repair material and method [\u00a74-7 Repair of Cracking]. \nIf the cracks are dormant, the manual suggests that the repair materials and techniques for dormant cracks are different from those for active cracks [\u00a74-7 Repair of Cracking]. \nField verification needed: \n- Determine if the cracks are active or dormant\n- Assess the moisture environment of the crack\n- Evaluate the degree of restraint for the repair material\n- Identify the cause and mechanism of the cracking.",
+    "kept_sections": [
+      "2-3",
+      "4-7",
+      "9-3"
+    ],
+    "kept_ids": [
+      "em2002_2-3_part1",
+      "em2002_9-3_part14",
+      "em2002_4-7_part0"
+    ],
+    "rewrites": 0,
+    "latency_s": 23.8,
+    "error": null
+  },
+  {
+    "id": "i01",
+    "type": "image",
+    "question": "What repair methods does the manual recommend for the defects in this image?",
+    "answer": "**Inspection Report**\n\nThe defect detection model found two cracks with medium severity, with confidence levels of 0.63 and 0.44, respectively [provided data]. \n\nAccording to the manual, cracking can be categorized into pattern cracks or isolated cracks, and the repair approach depends on the nature of the cracking, its cause, and whether the crack is active or dormant [\u00a74-7]. \n\nIf the cracks are dormant and isolated with no water present, the manual recommends routing and sealing, judicious neglect, autogenous healing, overlay, or polymer impregnation [\u00a74-7 Figure 4-4]. If the cracks are dormant and isolated with severe water conditions, the recommended repair methods are overlay or polymer impregnation [\u00a74-7 Figure 4-4]. \n\nFor active cracks, the manual provides a decision flowchart (Figure 4-3) that considers factors such as the type of crack, whether strengthening is required, and the moisture environment of the crack [\u00a74-7]. \n\nThe manual also emphasizes the importance of understanding the cause and mechanism of the cracking to select an appropriate repair method [\u00a74-7]. \n\n**Field verification needed:**\n\n* Determine if the cracks are active or dormant\n* Determine if the cracks are pattern cracks or isolated cracks\n* Assess the water condition (none, minor, or severe)\n* Determine if strengthening is required across the crack\n* Evaluate the moisture environment of the crack\n* Assess the degree of restraint for the repair material\n\nThese conditions must be verified on site to finalize the repair selection according to the manual's guidelines [\u00a74-7].",
+    "kept_sections": [
+      "4-6",
+      "4-7",
+      "4-8",
+      "9-1"
+    ],
+    "kept_ids": [
+      "em2002_4-6_part0",
+      "em2002_4-8_part1",
+      "em2002_4-7_part1",
+      "em2002_4-8_part0",
+      "em2002_fig4-3",
+      "em2002_4-7_part0",
+      "em2002_9-1_part0",
+      "em2002_fig4-4"
+    ],
+    "rewrites": 0,
+    "latency_s": 40.7,
+    "error": null
+  },
+  {
+    "id": "i02",
+    "type": "image",
+    "question": "How serious are the defects in this image?",
+    "answer": "**Inspection Report**\n\nThe defect detection model found two cracks with the following characteristics: \n- One crack has a confidence level of 0.63 and is classified as medium severity.\n- The other crack has a confidence level of 0.44 and is also classified as medium severity.\n\nAccording to the manual, cracks can be categorized based on their depth, width, and current state of activity [\u00a72-3]. The manual also provides guidance on the repair of cracking, which depends on the nature of the cracking, its cause, and whether the mechanism causing the cracking is still active [\u00a74-7].\n\nIf the cracks are dormant and isolated with no water present, the manual recommends repair methods such as routing and sealing, judicious neglect, autogenous healing, overlay, or polymer impregnation for pattern cracks [\u00a74-7 Figure 4-4]. For isolated cracks, the recommended repair methods include epoxy injection, routing and sealing, grouting, autogenous healing, judicious neglect, flexible sealing, drilling and plugging, or dry packing [\u00a74-7 Figure 4-4].\n\nHowever, if the cracks are active, the manual provides a different set of recommendations [\u00a74-7 Figure 4-3]. The selection of the repair method also depends on whether strengthening is required and the water condition [\u00a74-7].\n\n**Field verification needed:**\n- Determine if the cracks are active or dormant.\n- Classify the cracks as pattern or isolated.\n- Assess the water condition (none, minor, or severe).\n- Determine if strengthening is required.\n- Evaluate the depth and width of the cracks.",
+    "kept_sections": [
+      "1-5",
+      "2-3",
+      "3-2",
+      "4-7",
+      "9-3"
+    ],
+    "kept_ids": [
+      "em2002_3-2_part12",
+      "em2002_2-3_part7",
+      "em2002_2-3_part3",
+      "em2002_2-3_part4",
+      "em2002_1-5_part0",
+      "em2002_4-7_part0",
+      "em2002_9-3_part14",
+      "em2002_fig4-3",
+      "em2002_fig4-4"
+    ],
+    "rewrites": 0,
+    "latency_s": 65.1,
+    "error": null
+  },
+  {
+    "id": "i03",
+    "type": "image",
+    "question": "What is wrong with the concrete in this image?",
+    "answer": "The defect detection model found cracking in the concrete. According to the manual, cracking can be caused by various factors, including construction errors, shrinkage, temperature changes, settlement and movement, chemical reactions, and poor design details [\u00a73-3]. \n\nIf the cracks are structural, they may be caused by excessive live or dead loads, and a structural engineer's analysis is required to determine the cause [\u00a72-3]. If the cracks are non-structural, they may be caused by other means such as shrinkage or temperature changes [\u00a72-3]. \n\nIf the cracks are dormant and isolated with no water present, the manual recommends considering the use of contraction and expansion joints to prevent further cracking [\u00a73-2]. However, if the cracks are active and there is water present, the manual suggests that the cause may be related to chemical reactions, such as acid attack or aggressive-water attack [\u00a73-2].\n\nField verification needed:\n- Determine if the cracks are structural or non-structural\n- Determine if the cracks are active or dormant\n- Determine if there is water present\n- Determine the orientation and pattern of the cracks\n- Determine the location of the cracks in relation to the structure's design and stress patterns [\u00a73-3]",
+    "kept_sections": [
+      "2-3",
+      "3-2",
+      "3-3"
+    ],
+    "kept_ids": [
+      "em2002_3-2_part21",
+      "em2002_2-3_part4",
+      "em2002_3-3_part2",
+      "em2002_3-3_part0",
+      "em2002_3-2_part26",
+      "em2002_3-2_part1"
+    ],
+    "rewrites": 1,
+    "latency_s": 56.6,
+    "error": null
+  },
+  {
+    "id": "i04",
+    "type": "image",
+    "question": "What should an inspector verify on site about the defects in this image?",
+    "answer": "The defect detection model found spalling on the concrete surface. According to the manual, spalling is defined as the development of fragments, usually in the shape of flakes, detached from a larger mass [\u00a72-3]. The manual categorizes spalls as small (not greater than 20 mm in depth nor greater than 150 mm in any dimension) or large (deeper than 20 mm and greater than 150 mm in any dimension) [\u00a72-3]. \n\nIf the spalls are small and isolated with no water present, the manual does not provide specific guidance on the repair choice [\u00a72-3]. However, if the spalls are caused by the corrosion of reinforcement, the manual notes that this is usually an easy symptom to recognize since the corroded metal will be visible along with rust staining [\u00a72-3]. \n\nField verification needed: \n- Size and depth of the spalls\n- Presence of water\n- Isolation or pattern of the spalls\n- Presence of corroded metal or rust staining\n- Activity level of the spalls (dormant or active)",
+    "kept_sections": [
+      "2-3",
+      "3-2"
+    ],
+    "kept_ids": [
+      "em2002_2-3_part0",
+      "em2002_3-2_part12",
+      "em2002_2-3_part7"
+    ],
+    "rewrites": 0,
+    "latency_s": 19.6,
+    "error": null
+  },
+  {
+    "id": "i05",
+    "type": "image",
+    "question": "What does this image show and what does the manual say about repairing it?",
+    "answer": "Inspection Report:\n\nThe defect detection model found multiple instances of corrosion on the concrete structure, with confidence levels ranging from 0.61 to 0.84 and severity levels of \"low\" and \"medium\" [no specific section].\n\nAccording to the manual, corrosion is a cause of spalling and disintegration [\u00a74-8]. The manual provides a table (Table 4-1) that lists possible causes of spalling and disintegration, including corrosion, and recommends partial replacement as a repair approach for corrosion [\u00a74-8]. \n\nIf the corrosion is causing active cracks, the manual recommends considering whether strengthening is required and selecting a repair method based on the type of crack (pattern or isolated) [\u00a74-7]. If the cracks are dormant and isolated with no water present, the manual recommends methods such as flexible sealing or drilling and plugging [\u00a74-7 Figure 4-3]. However, if strengthening is required, the manual suggests methods like stitching or additional reinforcement [\u00a74-7 Figure 4-3].\n\nField verification needed:\n- Determine the type of cracks (active or dormant, pattern or isolated)\n- Assess the need for strengthening\n- Evaluate the water condition\n- Inspect the reinforcing steel for damage\n- Determine the extent of concrete removal required \n\nNote: The available documents do not provide specific guidance on the repair of corrosion defects without considering the associated cracking or spalling.",
+    "kept_sections": [
+      "1-5",
+      "2-3",
+      "3-3",
+      "4-7",
+      "4-8",
+      "5-3"
+    ],
+    "kept_ids": [
+      "em2002_4-7_part1",
+      "em2002_4-8_part1",
+      "em2002_1-5_part1",
+      "em2002_fig4-3",
+      "em2002_3-3_part2",
+      "em2002_2-3_part8",
+      "em2002_5-3_part3",
+      "em2002_4-8_part2"
+    ],
+    "rewrites": 0,
+    "latency_s": 57.9,
+    "error": null
+  },
+  {
+    "id": "i06",
+    "type": "image",
+    "question": "Based on this image, what process may be occurring in the reinforcing steel?",
+    "answer": "Inspection Report:\n\nThe defect detection model found multiple instances of corrosion on the reinforcing steel, with confidence levels ranging from 0.61 to 0.84 and severity levels of low to medium.\n\nAccording to the manual, corrosion of reinforcing steel is a common cause of damage to concrete structures [\u00a73-2]. The manual states that corrosion can lead to delamination, cracking, and spalling of the concrete [\u00a72-3]. If the corrosion is severe, it may be necessary to replace the reinforcing steel [\u00a75-3]. However, if the corrosion is minor, cleaning the steel and applying a repair material may be sufficient [\u00a75-3].\n\nIf the corrosion is causing delamination, the manual recommends using hammer-sounding or chain dragging to identify the extent of the delamination [\u00a72-3]. If the delamination is extensive, it may be necessary to remove the deteriorated concrete and replace it with new concrete [\u00a75-3]. If the cracks are dormant and isolated with no water present, the manual recommends cleaning the reinforcing steel and applying a repair material [\u00a75-3]. However, if the cracks are active or subject to water exposure, additional measures such as waterproofing or drainage may be necessary [\u00a74-7].\n\nField verification needed:\n- Extent of delamination\n- Severity of corrosion\n- Presence of water or moisture\n- Activity level of cracks (dormant or active)\n- Pattern and isolation of cracks\n- Condition of reinforcing steel (need for replacement or cleaning)",
+    "kept_sections": [
+      "1-5",
+      "2-3",
+      "3-1",
+      "3-2",
+      "3-3",
+      "4-7",
+      "4-8",
+      "5-3"
+    ],
+    "kept_ids": [
+      "em2002_2-3_part8",
+      "em2002_5-3_part3",
+      "em2002_3-2_part7",
+      "em2002_5-3_part4",
+      "em2002_3-3_part2",
+      "em2002_1-5_part0",
+      "em2002_3-1_part0",
+      "em2002_4-8_part2",
+      "em2002_4-7_part1"
+    ],
+    "rewrites": 0,
+    "latency_s": 57.8,
+    "error": null
+  },
+  {
+    "id": "i07",
+    "type": "image",
+    "question": "What repair approaches does the manual give for the defect type in this image?",
+    "answer": "(a) The defect detection model found a defect of type \"spalling\" with high severity.\n\n(b) According to the manual, spalling is a symptom of many types of concrete distress, and there is no single repair method that will always apply [\u00a74-8]. The manual provides a table (Table 4-1) that relates causes of spalling and disintegration to possible repair approaches [\u00a74-8]. The repair approach for spalling depends on the cause of the damage. For example, if the cause is erosion, the repair approach could be partial replacement or surface coatings [\u00a74-8]. If the cause is construction errors, the repair approach could be partial replacement, surface coatings, or no action [\u00a74-8]. \n\nIf the spalling is caused by corrosion, the manual suggests that the corrosion should be addressed first [\u00a72-3]. If the spalling is caused by freezing and thawing, the manual suggests partial replacement or no action [\u00a74-8]. \n\n(c) Field verification needed:\n- Cause of the spalling (e.g. erosion, construction errors, corrosion, freezing and thawing)\n- Extent of the damage (limited to isolated areas or major spalling)\n- Future activity of the causative factor (will the cause of the damage remain active)\n- Moisture environment of the spall\n- Availability of satisfactory repair materials\n- Access to the structure, operating schedule, and weather constraints [\u00a71-5]",
+    "kept_sections": [
+      "1-5",
+      "2-3",
+      "3-2",
+      "4-6",
+      "4-7",
+      "4-8",
+      "9-1"
+    ],
+    "kept_ids": [
+      "em2002_4-6_part0",
+      "em2002_fig4-3",
+      "em2002_4-8_part1",
+      "em2002_1-5_part0",
+      "em2002_4-7_part1",
+      "em2002_4-8_part0",
+      "em2002_9-1_part0",
+      "em2002_2-3_part8",
+      "em2002_3-2_part26",
+      "em2002_4-8_part2"
+    ],
+    "rewrites": 0,
+    "latency_s": 39.0,
+    "error": null
+  },
+  {
+    "id": "i08",
+    "type": "image",
+    "question": "What could have caused the defect shown in this image?",
+    "answer": "Inspection Report:\n\nThe defect detection model found a defect of type \"spalling\" with a confidence of 0.47 and severity \"high\".\n\nAccording to the manual, spalling is defined as the development of fragments, usually in the shape of flakes, detached from a larger mass [\u00a72-3]. The manual notes that spalling can be caused by various factors, including corrosion of reinforcement [\u00a72-3], inadequate structural design [\u00a73-2], poor design details [\u00a73-2], and freezing and thawing [\u00a74-8].\n\nIf the spalling is caused by corrosion of reinforcement, the manual recommends locating the delamination that occurs before the corrosion progresses to the point that the concrete spalls [\u00a72-3]. If the spalling is caused by inadequate structural design, the manual suggests that a detailed stress analysis will be required to determine whether inadequate design is the cause [\u00a73-2]. If the spalling is caused by freezing and thawing, the manual recommends partial replacement or no action [\u00a74-8].\n\nField verification needed:\n- Determine the cause of the spalling (e.g. corrosion of reinforcement, inadequate structural design, freezing and thawing)\n- Assess the extent of the damage\n- Check for delamination and reinforcement corrosion\n- Evaluate the structural design and loading conditions\n- Determine if the spalling is active or dormant, and if water is present.",
+    "kept_sections": [
+      "2-3",
+      "3-2",
+      "4-8",
+      "7-1",
+      "8-3"
+    ],
+    "kept_ids": [
+      "em2002_2-3_part7",
+      "em2002_8-3_part1",
+      "em2002_3-2_part12",
+      "em2002_3-2_part21",
+      "em2002_7-1_part0",
+      "em2002_4-8_part0",
+      "em2002_2-3_part8",
+      "em2002_3-2_part26",
+      "em2002_4-8_part1",
+      "em2002_4-8_part2"
+    ],
+    "rewrites": 0,
+    "latency_s": 50.3,
+    "error": null
+  },
+  {
+    "id": "i09",
+    "type": "image",
+    "question": "Are there any defects in this image?",
+    "answer": "The defect detection model found a crack with a confidence of 0.61, classified as low severity, with a bounding box at coordinates (300, 228, 447, 288).\n\nAccording to the manual, cracking can be caused by various factors, including inadequate structural design [\u00a73-2] and poor design details [\u00a73-2]. The manual also provides guidance on categorizing cracks based on their depth, width, and current state of activity [\u00a72-3]. The depth of cracking can be categorized as surface, shallow, deep, or through [\u00a72-3], and the width of cracking can be categorized as fine, medium, or wide [\u00a72-3]. The manual also notes that the activity of the crack refers to the presence of the factor causing the cracking, and that cracks can be classified as active or dormant [\u00a72-3].\n\nIf the crack is dormant and isolated with no water present, the manual recommends considering the depth and width of the crack to determine the appropriate repair method [\u00a72-3]. However, if the crack is active or there is water present, the manual suggests that a more detailed analysis may be required to determine the cause of the cracking and the appropriate repair method [\u00a73-2].\n\nField verification needed:\n- Determine the depth and width of the crack\n- Assess the current state of activity of the crack (active or dormant)\n- Check for the presence of water\n- Evaluate the crack pattern (isolated or pattern cracking)\n- Determine the physical state of the concrete when cracking occurred (before or after hardening)",
+    "kept_sections": [
+      "1-5",
+      "2-3",
+      "3-2",
+      "4-7",
+      "9-3"
+    ],
+    "kept_ids": [
+      "em2002_3-2_part12",
+      "em2002_2-3_part7",
+      "em2002_2-3_part3",
+      "em2002_3-2_part21",
+      "em2002_2-3_part2",
+      "em2002_3-2_part13",
+      "em2002_1-5_part0",
+      "em2002_9-3_part14",
+      "em2002_fig4-3"
+    ],
+    "rewrites": 0,
+    "latency_s": 9.9,
+    "error": null
+  },
+  {
+    "id": "i10",
+    "type": "image",
+    "question": "Does the concrete in this image require immediate repair?",
+    "answer": "",
+    "kept_sections": [],
+    "kept_ids": [],
+    "rewrites": 0,
+    "latency_s": 0,
+    "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kwm7kbwcemxa4xcngxfxwp8e` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99040, Requested 4737. Please try again in 54m23.328s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+  },
+  {
+    "id": "u01",
+    "type": "unanswerable",
+    "question": "What torque should be applied to anchor bolts in concrete repair?",
+    "answer": "",
+    "kept_sections": [],
+    "kept_ids": [],
+    "rewrites": 0,
+    "latency_s": 0,
+    "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kwm7kbwcemxa4xcngxfxwp8e` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99006, Requested 1750. Please try again in 10m53.184s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+  },
+  {
+    "id": "u02",
+    "type": "unanswerable",
+    "question": "What is the minimum rebar spacing required when designing a new reinforced concrete beam?",
+    "answer": "The available documents do not contain sufficient information to answer this.",
+    "kept_sections": [],
+    "kept_ids": [],
+    "rewrites": 2,
+    "latency_s": 105.3,
+    "error": null
+  },
+  {
+    "id": "u03",
+    "type": "unanswerable",
+    "question": "How much does epoxy injection repair cost per meter of crack?",
+    "answer": "",
+    "kept_sections": [],
+    "kept_ids": [],
+    "rewrites": 0,
+    "latency_s": 0,
+    "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kwm7kbwcemxa4xcngxfxwp8e` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 98844, Requested 1897. Please try again in 10m40.224s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+  },
+  {
+    "id": "u04",
+    "type": "unanswerable",
+    "question": "What welding procedure should be used to repair steel bridge girders?",
+    "answer": "",
+    "kept_sections": [],
+    "kept_ids": [],
+    "rewrites": 0,
+    "latency_s": 0,
+    "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kwm7kbwcemxa4xcngxfxwp8e` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 98812, Requested 3237. Please try again in 29m30.336s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+  },
+  {
+    "id": "u05",
+    "type": "unanswerable",
+    "question": "What causes D-cracking in concrete?",
+    "answer": "",
+    "kept_sections": [],
+    "kept_ids": [],
+    "rewrites": 0,
+    "latency_s": 0,
+    "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kwm7kbwcemxa4xcngxfxwp8e` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 98141, Requested 2924. Please try again in 15m20.16s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+  }
+]

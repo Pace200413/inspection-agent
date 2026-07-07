@@ -1,0 +1,64 @@
+[
+  {
+    "id": "t01",
+    "type": "text",
+    "question": "What repair methods are suitable for dormant isolated cracks when no strengthening is required and no water is present?",
+    "answer": "The defect detection model found dormant isolated cracks. \nIf the cracks are indeed dormant and isolated with no water present and no strengthening is required, the manual recommends the following repair methods: \n1. EPOXY INJECTION \n2. ROUTING AND SEALING \n3. GROUTING \n4. AUTOGENOUS HEALING \n5. JUDICIOUS NEGLECT \n6. FLEXIBLE SEALING \n7. DRILLING AND PLUGGING \n8. DRY PACKING [\u00a74-7 Figure 4-4]. \n\nField verification needed: \n- Verification that the cracks are indeed dormant and isolated\n- Verification that no strengthening is required\n- Verification of the water condition (none, minor, or severe) [\u00a74-7 Figure 4-4].",
+    "kept_sections": [
+      "4-7",
+      "4-8",
+      "6-3"
+    ],
+    "kept_ids": [
+      "em2002_fig4-4",
+      "em2002_4-8_part0",
+      "em2002_6-3_part0",
+      "em2002_4-7_part1"
+    ],
+    "rewrites": 0,
+    "latency_s": 2.7,
+    "error": null
+  },
+  {
+    "id": "i01",
+    "type": "image",
+    "question": "What repair methods does the manual recommend for the defects in this image?",
+    "answer": "The defect detection model found two cracks with medium severity in the uploaded image. \n\nAccording to the manual, cracking can be categorized into pattern cracks or isolated cracks [\u00a74-7]. The manual also distinguishes between active and dormant cracks [\u00a74-7]. \n\nFor active cracks, the manual provides a decision flowchart (Figure 4-3) to select a repair method based on the type of crack and whether strengthening is required [\u00a74-7 Figure 4-3]. For dormant cracks, another decision flowchart (Figure 4-4) is provided [\u00a74-7 Figure 4-4]. \n\nIf the cracks are dormant and isolated with no water present, the manual recommends routing and sealing, judicious neglect, autogenous healing, overlay, or polymer impregnation [\u00a74-7 Figure 4-4]. If the cracks are dormant and isolated with severe water conditions, the manual recommends overlay or polymer impregnation [\u00a74-7 Figure 4-4]. \n\nIf the cracks are active and isolated, and strengthening is required, the manual recommends stitching or additional reinforcement [\u00a74-7 Figure 4-3]. If the cracks are active and isolated, and no strengthening is required, the manual recommends flexible sealing or drilling and plugging [\u00a74-7 Figure 4-3].\n\nField verification needed: \n- Determine if the cracks are active or dormant\n- Determine if the cracks are pattern cracks or isolated cracks\n- Determine the water condition (none, minor, or severe)\n- Determine if strengthening is required across the crack\n- Determine the moisture environment of the crack\n- Determine the degree of restraint for the repair material",
+    "kept_sections": [
+      "4-6",
+      "4-7",
+      "4-8",
+      "9-1"
+    ],
+    "kept_ids": [
+      "em2002_4-6_part0",
+      "em2002_4-8_part1",
+      "em2002_4-7_part1",
+      "em2002_4-8_part0",
+      "em2002_fig4-3",
+      "em2002_4-7_part0",
+      "em2002_9-1_part0",
+      "em2002_fig4-4"
+    ],
+    "rewrites": 0,
+    "latency_s": 6.7,
+    "error": null
+  },
+  {
+    "id": "u01",
+    "type": "unanswerable",
+    "question": "What torque should be applied to anchor bolts in concrete repair?",
+    "answer": "The available documents do not contain sufficient information to answer this. [No section contains information on the specific torque to be applied to anchor bolts in concrete repair]",
+    "kept_sections": [
+      "5-3",
+      "8-6"
+    ],
+    "kept_ids": [
+      "em2002_5-3_part5",
+      "em2002_8-6_part4"
+    ],
+    "rewrites": 0,
+    "latency_s": 21.9,
+    "error": null
+  }
+]

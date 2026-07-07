@@ -1,0 +1,292 @@
+[
+  {
+    "id": "t01",
+    "type": "text",
+    "question": "What repair methods are suitable for dormant isolated cracks when no strengthening is required and no water is present?",
+    "expected_sections": ["4-7"],
+    "expected_answer_notes": "Epoxy injection, routing and sealing, grouting, autogenous healing, judicious neglect, flexible sealing, drilling and plugging, dry packing (Figure 4-4)",
+    "answerable": true
+  },
+  {
+    "id": "t02",
+    "type": "text",
+    "question": "What repair methods does the manual recommend for active isolated cracks when strengthening is required?",
+    "expected_sections": ["4-7"],
+    "expected_answer_notes": "Stitching and additional reinforcement (Figure 4-3, active cracks flowchart)",
+    "answerable": true
+  },
+  {
+    "id": "t03",
+    "type": "text",
+    "question": "What is autogenous healing and under what conditions can it occur?",
+    "expected_sections": ["6-3"],
+    "expected_answer_notes": "Natural process of crack repair; requires presence of moisture and absence of tensile stress; practical for closing dormant cracks in a moist environment; will not occur if crack is active/moving",
+    "answerable": true
+  },
+  {
+    "id": "t04",
+    "type": "text",
+    "question": "When should flexible sealing be used for crack repair and what are its limitations?",
+    "expected_sections": ["6-9"],
+    "expected_answer_notes": "For major, active cracks with limited water head; an actual joint is constructed rather than just filling; does NOT increase structural capacity",
+    "answerable": true
+  },
+  {
+    "id": "t05",
+    "type": "text",
+    "question": "What is stitching and when is it used to repair cracks?",
+    "expected_sections": ["6-32"],
+    "expected_answer_notes": "Drilling holes on both sides of crack, grouting in stitching dogs (U-shaped metal units); used when tensile strength must be reestablished across major cracks; stiffening may cause cracking elsewhere; will not close a crack but prevents propagation",
+    "answerable": true
+  },
+  {
+    "id": "t06",
+    "type": "text",
+    "question": "How does the routing and sealing repair method work?",
+    "expected_sections": ["6-27"],
+    "expected_answer_notes": "Enlarging the crack along its exposed face and filling and sealing it with a suitable material",
+    "answerable": true
+  },
+  {
+    "id": "t07",
+    "type": "text",
+    "question": "What categories are used to describe the depth of cracking in concrete?",
+    "expected_sections": ["2-3"],
+    "expected_answer_notes": "Four categories: surface, shallow, deep, and through",
+    "answerable": true
+  },
+  {
+    "id": "t08",
+    "type": "text",
+    "question": "What is the difference between active and dormant cracks?",
+    "expected_sections": ["2-3", "9-3"],
+    "expected_answer_notes": "Active cracks: mechanism causing the cracking is still at work / crack currently moving. Dormant: not moving or movement so small repair material unaffected",
+    "answerable": true
+  },
+  {
+    "id": "t09",
+    "type": "text",
+    "question": "What repair approach does the manual recommend for spalling caused by corrosion?",
+    "expected_sections": ["4-8"],
+    "expected_answer_notes": "Partial replacement (Table 4-1, corrosion row, deterioration likely to continue)",
+    "answerable": true
+  },
+  {
+    "id": "t10",
+    "type": "text",
+    "question": "What are the general repair approaches for spalling and disintegration?",
+    "expected_sections": ["4-8"],
+    "expected_answer_notes": "No action (judicious neglect), partial replacement, surface coating, total replacement (Table 4-2)",
+    "answerable": true
+  },
+  {
+    "id": "t11",
+    "type": "text",
+    "question": "Why is surface preparation important before applying a concrete repair?",
+    "expected_sections": ["5-3"],
+    "expected_answer_notes": "One of most important steps; a perfectly sound replacement material may fail because of improper surface preparation",
+    "answerable": true
+  },
+  {
+    "id": "t12",
+    "type": "text",
+    "question": "What general considerations apply when selecting a concrete removal method?",
+    "expected_sections": ["5-2"],
+    "expected_answer_notes": "Safety/economy/minimal effect on remaining concrete; effect on time out of service; same method may not suit all portions; more than one method may be required; removal to fixed depth considerations",
+    "answerable": true
+  },
+  {
+    "id": "t13",
+    "type": "text",
+    "question": "How should concrete core samples be handled after they are obtained?",
+    "expected_sections": ["2-5", "2-3"],
+    "expected_answer_notes": "Examined in laboratory; wrapped and sealed as appropriate to preserve moisture content",
+    "answerable": true
+  },
+  {
+    "id": "t14",
+    "type": "text",
+    "question": "What causes freezing and thawing damage in concrete?",
+    "expected_sections": ["3-2"],
+    "expected_answer_notes": "Repeated cycles of freezing and thawing; use of deicing chemicals aggravates; non-air-entrained concrete susceptible",
+    "answerable": true
+  },
+  {
+    "id": "t15",
+    "type": "text",
+    "question": "What is alkali-carbonate reaction in concrete?",
+    "expected_sections": ["3-2", "9-3"],
+    "expected_answer_notes": "Reaction between alkalies (sodium and potassium) in portland cement and certain carbonate rocks in aggregate",
+    "answerable": true
+  },
+  {
+    "id": "t16",
+    "type": "text",
+    "question": "What is the first step in repairing a crack by polymer injection?",
+    "expected_sections": ["6-22"],
+    "expected_answer_notes": "Clean the cracks - oil, grease, dirt or fine particles must be removed",
+    "answerable": true
+  },
+  {
+    "id": "t17",
+    "type": "text",
+    "question": "Why are underwater repairs often performed instead of dewatering a structure?",
+    "expected_sections": ["8-6"],
+    "expected_answer_notes": "Dewatering a hydraulic structure so repairs can be made dry is often difficult and costly",
+    "answerable": true
+  },
+  {
+    "id": "t18",
+    "type": "text",
+    "question": "What is underwater concrete placement?",
+    "expected_sections": ["6-33"],
+    "expected_answer_notes": "Placing fresh concrete underwater (with appropriate methods/equipment)",
+    "answerable": true
+  },
+  {
+    "id": "t19",
+    "type": "text",
+    "question": "According to the manual's repair methodology, what must be understood before selecting a repair method?",
+    "expected_sections": ["1-5"],
+    "expected_answer_notes": "The underlying cause of the deficiency / evaluate condition and cause before correcting",
+    "answerable": true
+  },
+  {
+    "id": "t20",
+    "type": "text",
+    "question": "Where does D-cracking usually start in a concrete pavement?",
+    "expected_sections": ["2-3"],
+    "expected_answer_notes": "Starts in the lower part of a concrete slab adjacent to joints, where moisture accumulates, and progresses away from the corners of the slab",
+    "answerable": true
+  },
+  {
+    "id": "i01",
+    "type": "image",
+    "question": "What repair methods does the manual recommend for the defects in this image?",
+    "image_path": "data/test_images/crack_0548.jpg",
+    "expected_sections": ["4-7"],
+    "expected_answer_notes": "Should mention detected cracks and present Figure 4-4 / Figure 4-3 conditional guidance with field verification list",
+    "answerable": true
+  },
+  {
+    "id": "i02",
+    "type": "image",
+    "question": "How serious are the defects in this image?",
+    "image_path": "data/test_images/crack_0548.jpg",
+    "expected_sections": ["2-3"],
+    "expected_answer_notes": "Should report detected cracks with severity from model, note severity heuristic basis, mention crack classification categories needing field verification",
+    "answerable": true
+  },
+  {
+    "id": "i03",
+    "type": "image",
+    "question": "What is wrong with the concrete in this image?",
+    "image_path": "data/test_images/crack_0615.jpg",
+    "expected_sections": ["2-3"],
+    "expected_answer_notes": "Should report crack detections and connect to manual's cracking descriptions",
+    "answerable": true
+  },
+  {
+    "id": "i04",
+    "type": "image",
+    "question": "What should an inspector verify on site about the defects in this image?",
+    "image_path": "data/test_images/crack_0615.jpg",
+    "expected_sections": ["2-3", "4-7"],
+    "expected_answer_notes": "Active vs dormant, pattern vs isolated, depth/width, water condition, strengthening requirement",
+    "answerable": true
+  },
+  {
+    "id": "i05",
+    "type": "image",
+    "question": "What does this image show and what does the manual say about repairing it?",
+    "image_path": "data/test_images/corrosion_0184.jpg",
+    "expected_sections": ["2-3", "4-8"],
+    "expected_answer_notes": "Corrosion detections; corrosion of reinforcing steel causes volume increase, cracking, delamination, spalling; repair approach partial replacement",
+    "answerable": true
+  },
+  {
+    "id": "i06",
+    "type": "image",
+    "question": "Based on this image, what process may be occurring in the reinforcing steel?",
+    "image_path": "data/test_images/corrosion_0184.jpg",
+    "expected_sections": ["2-3", "3-2"],
+    "expected_answer_notes": "Corrosion detected; corrosion of reinforcement leads to volume increase, cracking over steel, delamination, eventual spalling",
+    "answerable": true
+  },
+  {
+    "id": "i07",
+    "type": "image",
+    "question": "What repair approaches does the manual give for the defect type in this image?",
+    "image_path": "data/test_images/spalling_0372.jpg",
+    "expected_sections": ["4-8"],
+    "expected_answer_notes": "Spalling detected; Table 4-1 cause-based approaches and Table 4-2 methods (no action, partial replacement, surface coating, total replacement)",
+    "answerable": true
+  },
+  {
+    "id": "i08",
+    "type": "image",
+    "question": "What could have caused the defect shown in this image?",
+    "image_path": "data/test_images/spalling_0372.jpg",
+    "expected_sections": ["3-3", "4-8", "2-3"],
+    "expected_answer_notes": "Spalling causes: accidental loadings, construction errors, corrosion, design errors, freezing and thawing, settlement, temperature changes",
+    "answerable": true
+  },
+  {
+    "id": "i09",
+    "type": "image",
+    "question": "Are there any defects in this image?",
+    "image_path": "data/test_images/clean_0001.jpg",
+    "expected_sections": [],
+    "expected_answer_notes": "HONESTY TEST: model may false-positive a low-severity crack; system must report only what model found, attribute it to the model, not invent additional defects. Known model FP case - grade the SYSTEM's honesty, not the detection",
+    "answerable": true
+  },
+  {
+    "id": "i10",
+    "type": "image",
+    "question": "Does the concrete in this image require immediate repair?",
+    "image_path": "data/test_images/clean_0001.jpg",
+    "expected_sections": [],
+    "expected_answer_notes": "Should not claim urgent repair need; should defer to field verification given low-severity/no findings",
+    "answerable": true
+  },
+  {
+    "id": "u01",
+    "type": "unanswerable",
+    "question": "What torque should be applied to anchor bolts in concrete repair?",
+    "expected_sections": [],
+    "expected_answer_notes": "Not covered in EM 1110-2-2002 - must refuse",
+    "answerable": false
+  },
+  {
+    "id": "u02",
+    "type": "unanswerable",
+    "question": "What is the minimum rebar spacing required when designing a new reinforced concrete beam?",
+    "expected_sections": [],
+    "expected_answer_notes": "Structural design requirement, not in this repair manual - must refuse",
+    "answerable": false
+  },
+  {
+    "id": "u03",
+    "type": "unanswerable",
+    "question": "How much does epoxy injection repair cost per meter of crack?",
+    "expected_sections": [],
+    "expected_answer_notes": "No cost data in the manual - must refuse",
+    "answerable": false
+  },
+  {
+    "id": "u04",
+    "type": "unanswerable",
+    "question": "What welding procedure should be used to repair steel bridge girders?",
+    "expected_sections": [],
+    "expected_answer_notes": "Steel welding out of scope for concrete repair manual - must refuse",
+    "answerable": false
+  },
+  {
+    "id": "u05",
+    "type": "unanswerable",
+    "question": "What causes D-cracking in concrete?",
+    "expected_sections": [],
+    "expected_answer_notes": "TRICK QUESTION: manual describes D-cracking location/progression (2-3) but never states the causal mechanism. Correct behavior: refuse, or describe only what 2-3 says (location near joints where moisture accumulates) WITHOUT inventing the freeze-thaw aggregate mechanism",
+    "answerable": false
+  }
+]

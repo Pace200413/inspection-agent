@@ -99,7 +99,7 @@ def generate(state: AgentState) -> dict:
     if state["defect_findings"] and state["defect_findings"].get("defects_found", 0) > 0:
         import json as _json
         findings_block = f"Defect detection model findings for the uploaded image:\n{_json.dumps(state['defect_findings']['findings'], indent=2)}\n\n"
-    context = "\n\n---\n\n".join(c["text"] for c in state["relevant"])
+    context = "\n\n---\n\n".join(c["text"] for c in state["relevant"][:5])
     answer = llm_main.invoke(GENERATE_PROMPT.format(
         findings_block=findings_block, question=state["question"], context=context
     )).content
