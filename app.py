@@ -14,8 +14,9 @@ NODE_LABELS = {
 
 
 def run_agent(image, question):
-    if not question.strip():
-        return "Please enter a question.", ""
+    if not question or not question.strip():
+        yield "Please enter a question (or click an example below).", ""
+        return
     state = {
         "question": question, "queries": [question],
         "image_path": image if image else "", "defect_findings": {},
