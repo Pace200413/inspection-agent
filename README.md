@@ -3,6 +3,8 @@
 **A multimodal AI agent for concrete defect detection and evidence-grounded repair guidance.**
 
 [Live demo](https://huggingface.co/spaces/islam-mamedov/inspection-agent) · [Source code](https://github.com/islam-mamedov/inspection-agent)
+![Concrete Inspection Agent interface](assets/inspection-agent-demo.png)
+
 
 > This project is a technical demonstration. Its output is not a substitute for an assessment by a qualified structural engineer.
 
